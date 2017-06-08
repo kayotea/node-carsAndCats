@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+#wrapper{
+    background: lightblue;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+input{
+    display: block;
+    margin: 10px;
+}
+img{
+    width: 49%;
+}
+p{
+    padding: 10px;
+}
